@@ -73,9 +73,5 @@ Performed in the Jupyter notebook using pandas:
 
 ## 👨‍💻 Author
  Sahid Anwar 
- E-mail-
- Linkdin
-
-Powered by Python, Power BI, and Business Acumen
-
----
+ E-mail-anwarkhanmothuka@gmail.com
+ Linkdin-Sahid-Anwar4059
